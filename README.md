@@ -2,19 +2,19 @@
 
 ![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/96/original/opt_ad_thumbnail.jpg)
 
-Start your development with a Design System for Bootstrap 4. It is open source, free and it features many components that can help you create amazing websites.
+Start your development with a Dashboard for Bootstrap 4. It is open source, free and it features many components that can help you create amazing websites.
 
 #### Fully Coded Components
 
 Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files.
 
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Design System is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
 Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 
 #### Complex Documentation
 
-Each element is well presented in a very complex documentation. You can read more about the idea behind this design system here. You can check the components here and the foundation here.
+Each element is well presented in a very complex documentation. You can read more about the idea behind this dashboard here. You can check the components here and the foundation here.
 
 #### Example Pages
 
@@ -64,7 +64,7 @@ We are coding Argon Dashboard for this frameworks also. Chek'em out:
 - [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard)
 
 
-- Install with Composer: `composer create-project creativetimofficial/argon-dashboard`
+- Install with Composer: `composer create-project creativetimofficial/argon-dashboard-free`
 
 - Clone from Github: `git clone https://github.com/creativetimofficial/argon-dashboard.git`
 
@@ -75,7 +75,7 @@ We are coding Argon Dashboard for this frameworks also. Chek'em out:
 
 ## Documentation
 
-The documentation for the Argon Design System is hosted at our [website](https://demos.creative-tim.com/argon-dashboard/docs/getting-started/overview.html).
+The documentation for the Argon Dashboard is hosted at our [website](https://demos.creative-tim.com/argon-dashboard/docs/getting-started/overview.html).
 
 ## File Structure
 
