@@ -1,5 +1,5 @@
 {
-"name": "argon-dashboard",
+"name": "@creative-tim-official/argon-dashboard",
 "version": "1.0.0",
 "description": "A beautiful Dashboard for Bootstrap 4. It is Free and Open Source.",
 "main": "gulpfile.js",
