@@ -68,11 +68,11 @@ We are coding Argon Dashboard for this frameworks also. Chek'em out:
 
 - Install with Composer: `composer create-project creativetimofficial/argon-dashboard`
 
-- Clone from Github: `git clone {{ site.product.github_clone }}`
+- Clone from Github: `git clone https://github.com/creativetimofficial/argon-dashboard.git`
 
-- Install with Npm: `npm i argon-dashboard-free`
+- Install with Npm: `npm i argon-dashboard`
 
-- Install with Yarn: `yarn add argon-dashboard-free`
+- Install with Yarn: `yarn add argon-dashboard`
 
 
 ## Documentation
