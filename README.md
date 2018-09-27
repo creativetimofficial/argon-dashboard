@@ -64,13 +64,13 @@ We are coding Argon Dashboard for this frameworks also. Chek'em out:
 - [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard)
 
 
-- Install with Composer: `composer create-project creativetimofficial/argon-dashboard-free`
-
-- Clone from Github: `git clone https://github.com/creativetimofficial/argon-dashboard.git`
-
 - Install with Npm: `npm i @creative-tim-official/argon-dashboard-free`
 
 - Install with Yarn: `yarn add @creative-tim-official/argon-dashboard-free`
+
+- Install with Composer: `composer create-project creativetimofficial/argon-dashboard-free`
+
+- Clone from Github: `git clone https://github.com/creativetimofficial/argon-dashboard.git`
 
 
 ## Documentation
