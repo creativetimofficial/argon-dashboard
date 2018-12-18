@@ -25,6 +25,37 @@
     &:hover {
         color: $nav-link-hover-color;
     }
+    i.ni {
+        position: relative;
+        top: 2px;
+    }
+}
+
+.nav-item {
+    &:hover {
+        cursor: pointer;
+    }
+    &.nav-with-child{
+      > .nav-item-child{
+          list-style: none;
+          height: 0 ;
+          min-height: 0px;
+          overflow: hidden !important;
+          padding: 0px 1.5rem ;
+          transition: all .5s ease-in-out;
+          margin-left: 25px
+      }
+      &.nav-item-expanded {
+        > .nav-item-child  {
+          padding: .5rem 1.5rem;
+          position: relative;
+          height: auto;
+          min-height: 50px;
+          display: block;
+          transition: all .5s ease-in-out;
+        }
+      }
+    }
 
     i.ni {
         position: relative;
