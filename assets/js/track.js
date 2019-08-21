@@ -114,11 +114,18 @@ else if (event == 'Errore' || event == 'Error'){
 
 else  var color =  "timeline-step badge-primary" ;
 
-    
+ // Time
+	var d = new Date(jcontent.shipments[0].events[i].timestamp);
+var formattedDate = d.getDate() + "-" + (d.getMonth() + 1) + "-" + d.getFullYear();
+var hours = (d.getHours() < 10) ? "0" + d.getHours() : d.getHours();
+var minutes = (d.getMinutes() < 10) ? "0" + d.getMinutes() : d.getMinutes();
+var formattedTime = hours + ":" + minutes;
+
+var formattedDate = formattedDate + " " + formattedTime;
     
     
 var output1 = document.getElementById('output');
-output1.innerHTML += '<div class="timeline-block"><span class="' + color + '"><i class="' + logo + '"></i></span><div class="timeline-content"><small class="text-muted font-weight-bold">' + jcontent.shipments[0].events[i].timestamp + '</small><h5 class=" mt-3 mb-0">' + jcontent.shipments[0].events[i].location.address.addressLocality + '</h5><p class=" text-sm mt-1 mb-0">' + jcontent.shipments[0].events[i].description + '</p><div class="mt-3"><span class="' + color1 + '">' + jcontent.shipments[0].id + '</span></div></div></div>';
+output1.innerHTML += '<div class="timeline-block"><span class="' + color + '"><i class="' + logo + '"></i></span><div class="timeline-content"><small class="text-muted font-weight-bold">' + formattedDate + '</small><h5 class=" mt-3 mb-0">' + jcontent.shipments[0].events[i].location.address.addressLocality + '</h5><p class=" text-sm mt-1 mb-0">' + jcontent.shipments[0].events[i].description + '</p><div class="mt-3"><span class="' + color1 + '">' + jcontent.shipments[0].id + '</span></div></div></div>';
 
 
 document.getElementById("trackingNumber").value = jcontent.shipments[0].id;
