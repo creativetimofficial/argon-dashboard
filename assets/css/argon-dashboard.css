@@ -15463,20 +15463,6 @@ a.btn-icon-only {
   padding: .875rem;
 }
 
-.card-blockquote {
-  padding: 2rem;
-  position: relative;
-}
-
-.card-blockquote .svg-bg {
-  display: block;
-  width: 100%;
-  height: 95px;
-  position: absolute;
-  top: -94px;
-  left: 0;
-}
-
 .card-lift--hover:hover {
   transform: translateY(-20px);
   transition: all 0.15s ease;

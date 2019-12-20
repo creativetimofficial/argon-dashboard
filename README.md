@@ -46,9 +46,9 @@ We are very excited to share this dashboard with you and we look forward to hear
 
 ## Quick start
 
-- `npm i Argon Dashboard`
-- Clone the repo: `git clone https://github.com/creativetimofficial/Argon Dashboard.git`.
-- [Download from Github](https://github.com/creativetimofficial/Argon Dashboard/archive/master.zip).
+- `npm i argon-dashboard`
+- Clone the repo: `git clone https://github.com/creativetimofficial/argon-dashboard.git`.
+- [Download from Github](https://github.com/creativetimofficial/argon-dashboard/archive/master.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard).
 
 
@@ -156,3 +156,4 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
+
