@@ -1,7 +1,8 @@
 # [Argon Dashboard - Free Dashboard for Bootstrap 4](https://demos.creative-tim.com/argon-dashboard/index.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Argon%20Dashboard%20by%20Creative%20Tim&url=https%3A%2F%2Fdemos.creative-tim.com%2Fargon-dashboard%2Fexamples%2Fdashboard.html&via=CreativeTim)
 
 
- ![version](https://img.shields.io/badge/version-1.1.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard/issues/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+ ![version](https://img.shields.io/badge/version-1.1.1-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard/issues/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+
 
 ![Product Gif](https://raw.githack.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard.jpg)
 
@@ -45,9 +46,9 @@ We are very excited to share this dashboard with you and we look forward to hear
 
 ## Quick start
 
-- `npm i Argon Dashboard`
-- Clone the repo: `git clone https://github.com/creativetimofficial/Argon Dashboard.git`.
-- [Download from Github](https://github.com/creativetimofficial/Argon Dashboard/archive/master.zip).
+- `npm i argon-dashboard`
+- Clone the repo: `git clone https://github.com/creativetimofficial/argon-dashboard.git`.
+- [Download from Github](https://github.com/creativetimofficial/argon-dashboard/archive/master.zip).
 - [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard).
 
 
@@ -155,3 +156,4 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
+
