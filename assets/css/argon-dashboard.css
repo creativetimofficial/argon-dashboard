@@ -1,7 +1,7 @@
 /*!
 
 =========================================================
-* Argon Dashboard - v1.1.0
+* Argon Dashboard - v1.1.2
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/argon-dashboard
@@ -16652,6 +16652,15 @@ textarea[resize="horizontal"] {
 .nav-link i.ni {
   position: relative;
   top: 2px;
+}
+
+@media (min-width: 992px) {
+  .nav-item.active-pro {
+    position: absolute;
+    width: 100%;
+    bottom: 10px;
+    background: #f6f9fc;
+  }
 }
 
 .nav-pills .nav-item:not(:last-child) {

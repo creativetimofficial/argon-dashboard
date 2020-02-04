@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.2] 2020-02-04
+### Fixes
+- Fixed broken links
+- Added Upgrade to PRO Page
+- Readme updated
+
 ## [1.1.1] 2019-12-20
 ### Fixes
 - Fixed navbar classes

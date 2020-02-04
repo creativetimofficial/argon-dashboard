@@ -31,3 +31,12 @@
         top: 2px;
     }
 }
+
+@media (min-width: 992px){
+  .nav-item.active-pro {
+      position: absolute;
+      width: 100%;
+      bottom: 10px;
+      background:  $table-head-bg;
+  }
+}
