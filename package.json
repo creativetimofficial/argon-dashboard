@@ -1,49 +1,82 @@
 {
-  "name": "argon-dashboard",
-  "version": "1.1.0",
-  "description": "Argon Dashboard. Coded by Creative Tim",
-  "main": "index.html",
-  "directories": {
-    "example": "root"
-  },
-  "scripts": {
+    "name": "@creative-tim-official/argon-dashboard-free",
+    "version": "1.2.0",
+    "description": "A beautiful Dashboard for Bootstrap 4. It is Free and Open Source.",
+    "main": "gulpfile.js",
+    "author": "Creative Tim",
+    "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-dashboard.git"
-  },
-  "keywords": [
-    "argon dashboard",
-    "bootstrap admin",
-    "bootstrap dashboard",
-    "argon design admin",
-    "argon design",
-    "creative tim",
-    "html dashboard",
-    "html css dashboard",
-    "web dashboard",
-    "freebie",
-    "free bootstrap dashboard",
-    "css3 dashboard",
-    "bootstrap admin",
-    "bootstrap dashboard",
-    "frontend",
-    "responsive bootstrap dashboard"
-  ],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-dashboard/issues"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1",
+},
+"devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^5.0.0",
-    "gulp-clean": "^0.4.0",
-    "gulp-install": "^1.1.0",
-    "gulp-sass": "^4.0.1",
-    "gulp-sourcemaps": "^2.6.4",
-    "gulp-open": "^3.0.1"
-  },
-  "homepage": "http://demos.creative-tim.com/argon-dashboard/index.html"
+    "gulp-clean-css": "^3.9.4",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-util": "^3.0.8",
+    "del": "^3.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-html-prettify": "0.0.1",
+    "gulp-npm-dist": "^1.0.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-run": "^1.7.1",
+    "gulp-uglify": "^3.0.1",
+    "uglify-es": "^3.3.9",
+    "gulp-useref-plus": "0.0.8",
+    "gulp-wait": "0.0.2",
+    "postcss-flexbugs-fixes": "^3.3.1",
+    "pump": "^3.0.0",
+    "run-sequence": "^2.2.1"
+},
+"dependencies": {
+    "@fortawesome/fontawesome-free": "^5.3.1",
+    "anchor-js": "^4.1.1",
+    "animate.css": "^3.7.0",
+    "bootstrap": "^4.1.3",
+    "bootstrap-datepicker": "^1.8.0",
+    "bootstrap-notify": "^3.1.3",
+    "bootstrap-tagsinput": "^0.7.1",
+    "chart.js": "^2.7.2",
+    "clipboard": "^2.0.1",
+    "datatables.net": "^1.10.19",
+    "datatables.net-bs4": "^1.10.19",
+    "datatables.net-buttons": "^1.5.4",
+    "datatables.net-buttons-bs4": "^1.5.4",
+    "datatables.net-responsive-bs4": "^2.2.3",
+    "datatables.net-select": "^1.2.7",
+    "datatables.net-select-bs4": "^1.2.7",
+    "dropzone": "^5.5.1",
+    "fullcalendar": "^3.9.0",
+    "headroom.js": "^0.9.4",
+    "holderjs": "^2.9.4",
+    "jquery": "^3.3.1",
+    "jquery-scroll-lock": "^3.1.3",
+    "jquery.scrollbar": "^0.2.11",
+    "js-cookie": "^2.2.0",
+    "jvectormap-next": "^3.0.0",
+    "lavalamp": "^1.1.0",
+    "list.js": "^1.5.0",
+    "moment": "^2.22.2",
+    "nouislider": "^11.1.0",
+    "onscreen": "^1.3.2",
+    "prismjs": "^1.15.0",
+    "quill": "^1.3.6",
+    "select2": "^4.0.6-rc.1",
+    "sweetalert2": "^7.28.10"
+},
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/creativetimofficial/argon-dashboard/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/creativetimofficial/argon-dashboard.git"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md"
 }
