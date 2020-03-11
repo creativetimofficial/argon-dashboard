@@ -82,8 +82,6 @@ gulp.task('minify:css', function() {
 gulp.task('concat:js', function(done) {
 
 	files = [
-		paths.src.base + '/assets/js/components/license.js',
-		paths.src.base + '/assets/js/components/layout.js',
 		paths.src.base + '/assets/js/components/init/*js',
 		paths.src.base + '/assets/js/components/custom/*js',
 		paths.src.base + '/assets/js/components/maps/*js',
@@ -103,7 +101,7 @@ gulp.task('concat:js', function(done) {
 
 gulp.task('minify:js', function(cb) {
     return gulp.src([
-            paths.src.base + '/assets/js/argon.js'
+            paths.src.base + 'assets/js/argon.js'
         ])
         .pipe(uglify())
         .pipe(rename({ suffix: '.min' }))
