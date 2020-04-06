@@ -26453,7 +26453,7 @@ table.dataTable tbody > tr.selected
     }
 }
 
-[data-calendar-month='0']
+/* [data-calendar-month='0']
 {
     background-image: url('../img/calendar/january.jpg');
 }
@@ -26511,7 +26511,7 @@ table.dataTable tbody > tr.selected
 [data-calendar-month='11']
 {
     background-image: url('../img/calendar/december.jpg');
-}
+} */
 
 .card-calendar .card-header
 {
