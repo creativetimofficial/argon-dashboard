@@ -617,7 +617,7 @@ var NavbarCollapse = (function() {
 					
 			 });
 
-		 $('body').addClass('nav-open');
+		 $('body').removeClass('g-sidenav-hidden').addClass('nav-open g-sidenav-show');
 			navbar_menu_visible = 1;
 
 		}
