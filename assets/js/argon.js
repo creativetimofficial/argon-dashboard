@@ -603,7 +603,7 @@ var NavbarCollapse = (function() {
 
 	$( ".sidenav-toggler" ).click(function() {
 		if(navbar_menu_visible == 1){
-		  $('body').removeClass('nav-open');
+		  $('body').removeClass('nav-open g-sidenav-show g-sidenav-pinned').addClass('g-sidenav-hidden');
 			navbar_menu_visible = 0;
 			$('.bodyClick').remove();
 
@@ -611,7 +611,7 @@ var NavbarCollapse = (function() {
 
 		var div = '<div class="bodyClick"></div>';
 		$(div).appendTo('body').click(function() {
-				 $('body').removeClass('nav-open');
+				 $('body').removeClass('nav-open g-sidenav-show g-sidenav-pinned').addClass('g-sidenav-hidden');
 					navbar_menu_visible = 0;
 					$('.bodyClick').remove();
 					
