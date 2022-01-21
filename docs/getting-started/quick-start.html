@@ -45,14 +45,14 @@
   <meta property="og:description" content="Start your development with a Dashboard for Bootstrap 4." />
   <meta property="og:site_name" content="Creative Tim" />
   <!-- Favicon -->
-  <link rel="icon" href="../../assets/img/brand/favicon.png" type="image/png">
+  <link rel="icon" href="../../assets-old/img/brand/favicon.png" type="image/png">
   <!-- Fonts -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
   <!-- Icons -->
-  <link rel="stylesheet" href="../../assets/vendor/nucleo/css/nucleo.css" type="text/css">
-  <link rel="stylesheet" href="../../assets/vendor/@fortawesome/fontawesome-free/css/all.min.css" type="text/css">
+  <link rel="stylesheet" href="../../assets-old/vendor/nucleo/css/nucleo.css" type="text/css">
+  <link rel="stylesheet" href="../../assets-old/vendor/@fortawesome/fontawesome-free/css/all.min.css" type="text/css">
   <!-- Argon CSS -->
-  <link rel="stylesheet" href="../../assets/css/argon.min.css?v=1.2.0" type="text/css">
+  <link rel="stylesheet" href="../../assets-old/css/argon.min.css?v=1.2.0" type="text/css">
   <!-- Google Tag Manager -->
   <script>
     (function(w, d, s, l, i) {
@@ -76,7 +76,7 @@
 <body class="docs">
   <header class="navbar navbar-horizontal navbar-expand navbar-dark flex-row align-items-md-center ct-navbar">
     <a class="navbar-brand mr-0 mr-md-2" href="../../docs/getting-started/overview.html" aria-label="Bootstrap">
-      <img src="../../assets/img/brand/white.png">
+      <img src="../../assets-old/img/brand/white.png">
       <sup>Docs</sup>
     </a>
     <ul class="navbar-nav flex-row mr-auto ml-4 d-none d-md-flex">
@@ -244,27 +244,27 @@
         <h2 id="css">CSS</h2>
         <p>Copy-paste the stylesheet <code class="highlighter-rouge">&lt;link&gt;</code> into your <code class="highlighter-rouge">&lt;head&gt;</code> before all other stylesheets to load our CSS.</p>
         <figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="c">&lt;!-- Favicon --&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets/img/brand/favicon.png"</span> <span class="na">rel=</span><span class="s">"icon"</span> <span class="na">type=</span><span class="s">"image/png"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets-old/img/brand/favicon.png"</span> <span class="na">rel=</span><span class="s">"icon"</span> <span class="na">type=</span><span class="s">"image/png"</span><span class="nt">&gt;</span>
 
 <span class="c">&lt;!-- Fonts --&gt;</span>
 <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
 
 <span class="c">&lt;!-- Icons --&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets/vendor/nucleo/css/nucleo.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets-old/vendor/nucleo/css/nucleo.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets-old/vendor/@fortawesome/fontawesome-free/css/all.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
 
 <span class="c">&lt;!-- Argon CSS --&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="na">href=</span><span class="s">"/assets/css/argon.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span></code></pre>
+<span class="nt">&lt;link</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="na">href=</span><span class="s">"/assets-old/css/argon.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span></code></pre>
         </figure>
         <h2 id="js">JS</h2>
         <p>Many of our components require the use of JavaScript to function. Specifically, they require <a href="https://jquery.com">jQuery</a>, <a href="https://popper.js.org/">Popper.js</a>, and our own JavaScript plugins. Place the following <code class="highlighter-rouge">&lt;script&gt;</code>s near the end of your pages, right before the closing <code class="highlighter-rouge">&lt;/body&gt;</code> tag, to enable them. jQuery must come first, then Popper.js, and then our JavaScript plugins.</p>
         <p>We use <a href="https://blog.jquery.com/2016/06/09/jquery-3-0-final-released/">jQuery’s slim build</a>, but the full version is also supported.</p>
         <figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="c">&lt;!-- Core --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets/vendor/jquery/dist/jquery.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
-<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets-old/vendor/jquery/dist/jquery.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets-old/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
 
 <span class="c">&lt;!-- Argon JS --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets/js/argon.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span></code></pre>
+<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets-old/js/argon.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span></code></pre>
         </figure>
         <p>Need to use a certain plugin in your page? You can find out how to integrate them and make them work in the Plugins dedicated page. In this way you will be sure that your website is optimized and uses only the needed resources.</p>
         <h2 id="starter-template">Starter template</h2>
@@ -279,28 +279,28 @@
         <span class="nt">&lt;title&gt;</span>Argon Dashboard<span class="nt">&lt;/title&gt;</span>
 
         <span class="c">&lt;!-- Favicon --&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets/img/brand/favicon.png"</span> <span class="na">rel=</span><span class="s">"icon"</span> <span class="na">type=</span><span class="s">"image/png"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets-old/img/brand/favicon.png"</span> <span class="na">rel=</span><span class="s">"icon"</span> <span class="na">type=</span><span class="s">"image/png"</span><span class="nt">&gt;</span>
 
 <span class="c">&lt;!-- Fonts --&gt;</span>
 <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
 
 <span class="c">&lt;!-- Icons --&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets/vendor/nucleo/css/nucleo.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets-old/vendor/nucleo/css/nucleo.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"/assets-old/vendor/@fortawesome/fontawesome-free/css/all.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
 
 <span class="c">&lt;!-- Argon CSS --&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="na">href=</span><span class="s">"/assets/css/argon.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;link</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="na">href=</span><span class="s">"/assets-old/css/argon.min.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
     <span class="nt">&lt;/head&gt;</span>
 
     <span class="nt">&lt;body&gt;</span>
         <span class="nt">&lt;h1&gt;</span>Hello, world!<span class="nt">&lt;/h1&gt;</span>
 
         <span class="c">&lt;!-- Core --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets/vendor/jquery/dist/jquery.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
-<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets-old/vendor/jquery/dist/jquery.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets-old/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
 
 <span class="c">&lt;!-- Argon JS --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets/js/argon.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"/assets-old/js/argon.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
     <span class="nt">&lt;/body&gt;</span>
 
 <span class="nt">&lt;/html&gt;</span></code></pre>
@@ -323,18 +323,18 @@
     </div>
   </div>
   <!-- Core -->
-  <script src="../../assets/vendor/jquery/dist/jquery.min.js"></script>
-  <script src="../../assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="../../assets/vendor/js-cookie/js.cookie.js"></script>
-  <script src="../../assets/vendor/jquery.scrollbar/jquery.scrollbar.min.js"></script>
-  <script src="../../assets/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js"></script>
+  <script src="../../assets-old/vendor/jquery/dist/jquery.min.js"></script>
+  <script src="../../assets-old/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="../../assets-old/vendor/js-cookie/js.cookie.js"></script>
+  <script src="../../assets-old/vendor/jquery.scrollbar/jquery.scrollbar.min.js"></script>
+  <script src="../../assets-old/vendor/jquery-scroll-lock/dist/jquery-scrollLock.min.js"></script>
   <!-- Docs JS -->
-  <script src="../../assets/vendor/anchor-js/anchor.min.js"></script>
-  <script src="../../assets/vendor/clipboard/dist/clipboard.min.js"></script>
-  <script src="../../assets/vendor/holderjs/holder.min.js"></script>
-  <script src="../../assets/vendor/prismjs/prism.js"></script>
+  <script src="../../assets-old/vendor/anchor-js/anchor.min.js"></script>
+  <script src="../../assets-old/vendor/clipboard/dist/clipboard.min.js"></script>
+  <script src="../../assets-old/vendor/holderjs/holder.min.js"></script>
+  <script src="../../assets-old/vendor/prismjs/prism.js"></script>
   <!-- Argon JS -->
-  <script src="../../assets/js/argon.min.js?v=1.2.0"></script>
+  <script src="../../assets-old/js/argon.min.js?v=1.2.0"></script>
   <script>
     // Facebook Pixel Code Don't Delete
     ! function(f, b, e, v, n, t, s) {
