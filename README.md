@@ -64,28 +64,25 @@ If you want to get inspiration or just show something directly to your clients, 
 
 
 
-
-
-
 ## Demo
 
 
 
-- [Start page]()
-- [User profile page]()
-- [Tables page ]()
-- [Maps Page]()
-- [Register page]()
-- [Login page]()
+- [Dashboard page](https://demos.creative-tim.com/argon-dashboard/pages/dashboard)
+- [User profile page](https://demos.creative-tim.com/argon-dashboard/pages/profile)
+- [Tables page ](https://demos.creative-tim.com/argon-dashboard/pages/tables)
+- [RTL Page](https://demos.creative-tim.com/argon-dashboard/pages/rtl)
+- [Sign Up page](https://demos.creative-tim.com/argon-dashboard/pages/sign-up)
+- [Login page](https://demos.creative-tim.com/argon-dashboard/pages/sign-in)
 
 
-| Start page | User profile page | Tables page  |
+| Dashboard page | User profile page | Tables page  |
 | --- | --- | ---  |
-| [![Start page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/start-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard)  | [![User profile page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/profile-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/profile.html)  | [![Tables pages](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/tables-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/tables.html)
+| [![Dashboard page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/dashboard.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/dashboard)  | [![User profile page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/profile.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/profile.html)  | [![Tables pages](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/tables.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/tables.html)
 
-| Maps page | Register page | Login page  |
+| RTL page | Sign Up page | Login page  |
 | --- | --- | ---  |
-| [![Maps page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/maps-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/maps.html)  | [![Register page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/register-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/register.html)  | [![Login page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/login-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/login.html)
+| [![RTL page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/rtl.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/rtl.html)  | [![Sign Up page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/signup.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/sign-up.html)  | [![Login page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/signin.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/sign-in.html)
 
 
 
@@ -106,12 +103,9 @@ If you want to get inspiration or just show something directly to your clients, 
 - Clone from Github: `git clone https://github.com/creativetimofficial/argon-dashboard.git`
 
 
-
-
-
 ## Documentation
 
-The documentation for the Argon Dashboard is hosted at our [website](https://demos.creative-tim.com/argon-dashboard/docs/getting-started/overview.html).
+The documentation for the Argon Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard).
 
 ## File Structure
 
@@ -148,10 +142,8 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-
-
 - Demo: <https://demos.creative-tim.com/argon-dashboard>
-- Documentation: <https://demos.creative-tim.com/argon-dashboard/docs/getting-started/overview.html>
+- Documentation: <https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/argon-dashboard/issues)
@@ -167,7 +159,7 @@ We use GitHub Issues as the official bug tracker for the Argon Dashboard. Here a
 ## Licensing
 
 
-- Copyright &copy; 2020 Creative Tim (https://www.creative-tim.com)
+- Copyright &copy; 2022 Creative Tim (https://www.creative-tim.com)
 - Licensed under MIT (https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md)
 
 
