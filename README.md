@@ -1,53 +1,32 @@
-# [Argon Dashboard 2](http://demos.creative-tim.com/argon-dashboard/pages/dashboard.html?ref=readme-ad2) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/argon-dashboard&text=Check%20Soft%20UI%20Dashboard%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#html%20https://www.creative-tim.com/product/argon-dashboard)
+# [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)]()
 
-![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard.svg)](https://github.com/creativetimofficial/argon-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard.svg)](https://github.com/creativetimofficial/argon-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
-![Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard-2.jpg)
+ ![version](https://img.shields.io/badge/version-2.0.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-Most complex and innovative Dashboard Made by [Creative Tim](https://creative-tim.com/). Check our latest Free Bootstrap 5 Dashboard.
+![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard-2.jpg)
 
-Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Argon Dashboard 2 is ready to help you create stunning websites and webapps.
 
-We created many examples for pages like Sign In, Profile and so on. Just choose between a Basic Design, an illustration or a cover and you are good to go!
+Start your development with a Dashboard for Bootstrap 5. It is open source, free and it features many components that can help you create amazing websites.
 
-**Fully Coded Elements**
 
-Argon Dashboard 2 is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+#### Fully Coded Components
 
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented.
-This Free Bootstrap 5 Dashboard is coming with prebuilt design blocks, so the development process is seamless,
-switching from our pages to the real website is very easy to be done.
+Argon Dashboard is built with over 70 individual components, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files.
 
-View [all components here](https://www.creative-tim.com/learning-lab/bootstrap/alerts/argon-dashboard?ref=readme-ad2).
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-**Documentation built by Developers**
+Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 
-Each element is well presented in a very complex documentation.
-You can read more about the <a href="https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard" target="_blank">documentation here</a>.
+#### Complex Documentation
 
-**Example Pages**
+Each element is well presented in a very complex documentation. You can read more about the idea behind this dashboard here. You can check the components here and the foundation here.
 
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will be able
-to quickly set up the basic structure for your web project.
-View <a href="https://demos.creative-tim.com/argon-dashboard/pages/dashboard.html" target="_blank">example pages here</a>.
+#### Example Pages
 
-**HELPFUL LINKS**
-
-- View <a href="https://github.com/creativetimofficial/argon-dashboard" target="_blank">Github Repository</a>
-
-- Check <a href="https://www.creative-tim.com/faq" target="_blank">FAQ Page</a>
-
-#### Special thanks
-During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
-- [Bootstrap 5](https://www.getbootstrap.com)- Open source front end framework
-- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
-
-Let us know your thoughts below. And good luck with development!
+If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
 ## Table of Contents
 
-* [Versions](#versions)
 * [Demo](#demo)
 * [Quick Start](#quick-start)
 * [Documentation](#documentation)
@@ -59,37 +38,82 @@ Let us know your thoughts below. And good luck with development!
 * [Licensing](#licensing)
 * [Useful Links](#useful-links)
 
+
+
 ## Versions
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard?ref=readme-ad2)
 
-| HTML |
-| --- |
-| [![Argon Dashboard 2 HTML](https://s3.amazonaws.com/creativetim_bucket/products/450/original/opt_sd_free_thumbnail.png)](http://demos.creative-tim.com/argon-dashboard/pages/dashboard.html?ref=readme-ad2)
+
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/html-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-react)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-argon-dashboard)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-angular)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/aspnet-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-asp-net)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nodejs-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-nodejs)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel_logo.png" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-laravel)
+
+
+
+| HTML | React | Vue | Angular |
+| --- | --- | --- | --- |
+| [![Argon Dashboard HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard.jpg)](https://www.creative-tim.com/product/argon-dashboard) | [![Argon Dashboard React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/argon-dashboard-react.jpg)](https://www.creative-tim.com/product/argon-dashboard-react) | [![Vue Argon Dashboard ](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-dashboard/vue-argon-dashboard.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard) | [![Argon Dashboard Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-angular/argon-dashboard-angular.jpg)](https://www.creative-tim.com/product/argon-dashboard-angular)
+
+| Asp.net | Node.js | Laravel |
+| --- | --- | --- |
+| [![Argon Dashboard Asp.net](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-aspnet/argon-dashboard-aspnet.jpg)](https://www.creative-tim.com/product/argon-dashboard-asp-net) | [![Argon Dashboard Node.js](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-nodejs/argon-dashboard-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-nodejs) | [![Argon Dashboard Laravel](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-laravel/argon-dashboard-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-laravel) |
+
+
+
+
+
 
 ## Demo
 
-- [Profile page](http://demos.creative-tim.com/argon-dashboard/pages/profile.html?ref=readme-ad2)
-- [Sign in page](http://demos.creative-tim.com/argon-dashboard/pages/sign-in.html?ref=readme-ad2)
-- [Sign up page](https://demos.creative-tim.com/argon-dashboard/pages/sign-up.html?ref=readme-ad2)
 
-[View More](https://demos.creative-tim.com/argon-dashboard/pages/dashboard.html?ref=readme-ad2).
 
-## Quick start
+- [Start page]()
+- [User profile page]()
+- [Tables page ]()
+- [Maps Page]()
+- [Register page]()
+- [Login page]()
 
-Quick start options:
 
-- Download from [Creative Tim](https://www.creative-tim.com/product/argon-dashboard?ref=readme-ad2).
+| Start page | User profile page | Tables page  |
+| --- | --- | ---  |
+| [![Start page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/start-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard)  | [![User profile page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/profile-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/profile.html)  | [![Tables pages](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/tables-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/tables.html)
 
-## Terminal Commands
+| Maps page | Register page | Login page  |
+| --- | --- | ---  |
+| [![Maps page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/maps-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/maps.html)  | [![Register page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/register-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/register.html)  | [![Login page](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard/login-page.png?raw=true)](https://demos.creative-tim.com/argon-dashboard/examples/login.html)
 
-1. Download and Install NodeJs from [NodeJs Official Page](https://nodejs.org/en/download/).
-2. Navigate to the root / directory and run npm install to install our local dependencies.
+
+
+
+
+## Download and Installation
+
+- [Download from Github](https://github.com/creativetimofficial/argon-dashboard/archive/master.zip)
+- [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard)
+
+
+- Install with Npm: `npm i @creative-tim-official/argon-dashboard-free`
+
+- Install with Yarn: `yarn add @creative-tim-official/argon-dashboard-free`
+
+- Install with Composer: `composer create-project creativetimofficial/argon-dashboard-free`
+
+- Clone from Github: `git clone https://github.com/creativetimofficial/argon-dashboard.git`
+
+
+
+
 
 ## Documentation
-The documentation for the Argon Dashboard 2 is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard?ref=readme-ad2).
 
-### What's included
+The documentation for the Argon Dashboard is hosted at our [website](https://demos.creative-tim.com/argon-dashboard/docs/getting-started/overview.html).
+
+## File Structure
 
 Within the download you'll find the following directories and files:
 
@@ -123,46 +147,47 @@ At present, we officially aim to support the last two versions of the following 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
 ## Resources
-- [Live Preview](https://demos.creative-tim.com/argon-dashboard/pages/dashboard.html?ref=readme-ad2)
-- [Download Page](https://www.creative-tim.com/product/argon-dashboard?ref=readme-ad2)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard?ref=readme-ad2)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-ad2)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-ad2)
+
+
+
+- Demo: <https://demos.creative-tim.com/argon-dashboard>
+- Documentation: <https://demos.creative-tim.com/argon-dashboard/docs/getting-started/overview.html>
+- License Agreement: <https://www.creative-tim.com/license>
+- Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/argon-dashboard/issues)
 
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Argon Dashboard 2. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Argon Dashboard 2. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/argon-dashboard?ref=readme-ad2).
+We use GitHub Issues as the official bug tracker for the Argon Dashboard. Here are some advices for our users that want to report an issue:
+
+1. Make sure that you are using the latest version of the Argon Dashboard. Check the CHANGELOG from your copy on our [website](https://www.creative-tim.com).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-ad2) instead of opening an issue.
-
 ## Licensing
 
-- Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-ad2)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-ad2)
+
+- Copyright &copy; 2020 Creative Tim (https://www.creative-tim.com)
+- Licensed under MIT (https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md)
+
 
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/templates?ref=readme-ad2) from Creative Tim
-
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-ad2) from Creative Tim
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-ad2) (earn money)
-
-- [Bundles](https://www.creative-tim.com/bundles)
-
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=mk-github-readme) (earn money)
+- [Blog Creative Tim](http://blog.creative-tim.com/)
+- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=mk-github-readme) from Creative Tim
+- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=mk-github-readme) from Creative Tim
+- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=mk-github-readme) from Creative Tim
+- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=mk-github-readme) from Creative Tim
+- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=mk-github-readme) from Creative Tim
+- [More products](https://www.creative-tim.com/bootstrap-themes?ref=mk-github-readme) from Creative Tim
 - [Argon Design](https://www.creative-tim.com/design-system/argon)
-
+- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=mk-github-readme)
 - [Get Discount](https://www.creative-tim.com/coupon)
 
-##### Social Media
+
+## Social Media
 
 Twitter: <https://twitter.com/CreativeTim>
 
