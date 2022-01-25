@@ -1,32 +1,30 @@
+# Change Log
 
+## [2.0.0] 2022-01-25
+### Update and Improvements
+- Update Bootstrap to v5.1.3
+- Add new example pages
+- Add Light/Dark feature
+- New Documentation version
 
-# Changelog
+## [1.0.3] 2021-06-25
+### Updates & Improvements
+- upgrade Bootstrap version to v5.0.2
+- add new page - Virtual Reality
+- add perfectScrollbar for Windows users
+- change headings color from '#252F40' to '#344767'
+- reduce the 'img' folder size - compress images
+- bug fixing
+- fix W3 errors
 
+## [1.0.2] 2021-05-10
+### Updates & Bugfixing
+- upgrade Bootstrap version to v5.0.1
+- bug fixing
 
-## [1.0.0] 2018-09-26
+## [1.0.1] 2021-04-06
+### Improvements
+- Design changes
+
+## [1.0.0] 2021-04-02
 ### Original Release
-
-## [1.1.0] 2019-07-01
-### Bootstrap Update, Libraries Update
-- Bootstrap updated to `4.3.1`
-- libraries updated to latest versions
-- fixed issues
-
-## [1.1.1] 2019-12-20
-### Fixes
-- Fixed navbar classes
-- Fixed 'modal-' classes
-- Cleaned scss files
-
-## [1.1.2] 2020-02-04
-### Fixes
-- Fixed broken links
-- Added Upgrade to PRO Page
-- Readme updated
-
-## [1.2.0] 2020-02-20
-### Improvments
-- New style for pages
-
-
-
