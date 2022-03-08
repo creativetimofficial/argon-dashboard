@@ -1,29 +1,37 @@
-# [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)]()
+# [Argon Dashboard 2](http://demos.creative-tim.com/argon-dashboard/pages/dashboard.html?ref=readme-ad2) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/argon-dashboard&text=Check%20Soft%20UI%20Dashboard%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#html%20https://www.creative-tim.com/product/argon-dashboard) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
 
+![version](https://img.shields.io/badge/version-2.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard.svg)](https://github.com/creativetimofficial/argon-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard.svg)](https://github.com/creativetimofficial/argon-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
- ![version](https://img.shields.io/badge/version-2.0.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-dashboard/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard-2.jpg)
 
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard-2.jpg)
+Most complex and innovative Dashboard Made by [Creative Tim](https://creative-tim.com/). Check our latest Free Bootstrap 5 Dashboard.
 
+Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Argon Dashboard 2 is ready to help you create stunning websites and webapps.
 
-Start your development with a Dashboard for Bootstrap 5. It is open source, free and it features many components that can help you create amazing websites.
+We created many examples for pages like Sign In, Profile and so on. Just choose between a Basic Design, an illustration or a cover and you are good to go!
 
+**Fully Coded Elements**
 
-#### Fully Coded Components
+Argon Dashboard 2 is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
-Argon Dashboard is built with over 70 individual components, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files.
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented.
+This Free Bootstrap 5 Dashboard is coming with prebuilt design blocks, so the development process is seamless,
+switching from our pages to the real website is very easy to be done.
 
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+View [all components here](https://www.creative-tim.com/learning-lab/bootstrap/alerts/argon-dashboard?ref=readme-ad2).
 
-Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
+**Documentation built by Developers**
 
-#### Complex Documentation
+Each element is well presented in a very complex documentation.
+You can read more about the <a href="https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard" target="_blank">documentation here</a>.
 
-Each element is well presented in a very complex documentation. You can read more about the idea behind this dashboard here. You can check the components here and the foundation here.
+**Example Pages**
 
-#### Example Pages
+If you want to get inspiration or just show something directly to your clients,
+you can jump start your development with our pre-built example pages. You will be able
+to quickly set up the basic structure for your web project.
+View <a href="https://demos.creative-tim.com/argon-dashboard/pages/dashboard.html" target="_blank">example pages here</a>.
 
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
 ## Table of Contents
 

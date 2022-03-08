@@ -1,5 +1,10 @@
 # Change Log
 
+## [2.0.1] 2022-03-08
+### Update and Improvements
+- fix running 'npm install' issue
+- fix SCSS compiling issues
+
 ## [2.0.0] 2022-01-25
 ### Update and Improvements
 - Update Bootstrap to v5.1.3
