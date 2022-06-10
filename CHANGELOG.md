@@ -1,5 +1,9 @@
 # Change Log
 
+## [2.0.3] 2022-06-10
+### Update and Improvements
+- update Bootstrap to v5.2.0-beta1
+
 ## [2.0.2] 2022-03-25
 ### Update
 - update SCSS folder
