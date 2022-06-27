@@ -1,5 +1,11 @@
 # Change Log
 
+## [2.0.4] 2022-06-27
+### Buxfixing
+- update `<html>` tag border
+- fix the .input-group border on focus
+- fix sidebar background-color on window resize
+
 ## [2.0.3] 2022-06-10
 ### Update and Improvements
 - update Bootstrap to v5.2.0-beta1

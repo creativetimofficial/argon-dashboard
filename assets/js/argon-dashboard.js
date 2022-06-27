@@ -137,9 +137,9 @@ function sidebarColor(a) {
   sidebar.setAttribute("data-color", color);
 
   if (document.querySelector('#sidenavCard')) {
-    var sidenavCard = document.querySelector('#sidenavCard .btn');
+    var sidenavCard = document.querySelector('#sidenavCard+.btn+.btn');
     let sidenavCardClasses = ['btn', 'btn-sm', 'w-100', 'mb-0', 'bg-gradient-' + color];
-    sidenavCard.className = '';
+    sidenavCard.removeAttribute('class');
     sidenavCard.classList.add(...sidenavCardClasses);
   }
 }
@@ -416,7 +416,9 @@ function navbarColorOnResize() {
     if (referenceButtons.classList.contains('active') && referenceButtons.getAttribute('data-class') === 'bg-transparent') {
       sidenav.classList.remove('bg-white');
     } else {
-      sidenav.classList.add('bg-white');
+      if (!body.classList.contains('dark-version')) {
+        sidenav.classList.add('bg-white');
+      }
     }
   } else {
     sidenav.classList.add('bg-white');
