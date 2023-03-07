@@ -1,8 +1,0 @@
-@each $prop, $value in $theme-colors {
-  .badge.bg-#{$prop} {
-    background: $value;
-  }
-}
-.badge {
-  text-transform: uppercase;
-}
