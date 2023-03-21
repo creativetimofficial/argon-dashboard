@@ -1,5 +1,5 @@
 {
-  "name": "argon-dashboard",
+  "name": "@creative-tim-official/argon-dashboard",
   "version": "2.0.4",
   "description": "Freebie Dashboard for Bootstrap 5",
   "main": "pages/dashboard.html",
@@ -46,5 +46,5 @@
     "gulp-open": "^3.0.1",
     "sass": "^1.49.9"
   },
-  "homepage": "http://creative-tim.com/product/argon-dashboard"
+  "homepage": "https://creative-tim.com/product/argon-dashboard"
 }
