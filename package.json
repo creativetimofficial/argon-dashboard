@@ -41,10 +41,13 @@
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean": "^0.4.0",
     "gulp-install": "^1.1.0",
+    "gulp-open": "^3.0.1",
     "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^2.6.5",
-    "gulp-open": "^3.0.1",
     "sass": "^1.49.9"
   },
-  "homepage": "https://creative-tim.com/product/argon-dashboard"
+  "homepage": "https://creative-tim.com/product/argon-dashboard",
+  "dependencies": {
+    "@creative-tim-official/argon-dashboard-free": "^1.2.0"
+  }
 }
