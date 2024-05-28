@@ -124,16 +124,16 @@ function validateToken() {
         });
 }
 
-var origin = window.location.href;
-if (!origin.includes("sign-in") && !origin.includes("sign-up")) {
-    // validate
-    isValid = validateToken()
-    if (isValid instanceof Error) {
-        console.log(isValid.message)
-        alert("Token Expired! Please re-login");
-        redirectPage(login_page_url)
-    }
-}
+// var origin = window.location.href;
+// if (!origin.includes("sign-in") && !origin.includes("sign-up")) {
+//     // validate
+//     isValid = validateToken()
+//     if (isValid instanceof Error) {
+//         console.log(isValid.message)
+//         alert("Token Expired! Please re-login");
+//         redirectPage(login_page_url)
+//     }
+// }
 
 loginBtn = document.getElementById("login_btn");
 if (loginBtn){
