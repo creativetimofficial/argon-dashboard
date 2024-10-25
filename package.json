@@ -1,8 +1,9 @@
 {
-  "name": "@creative-tim-official/argon-dashboard",
-  "version": "2.0.4",
+  "name": "argon-dashboard",
+  "version": "2.1.0",
   "description": "Freebie Dashboard for Bootstrap 5",
   "main": "pages/dashboard.html",
+  "type": "module",
   "directories": {
     "example": "root"
   },
@@ -37,14 +38,9 @@
     "url": "https://github.com/creativetimofficial/argon-dashboard/issues"
   },
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
-    "gulp-clean": "^0.4.0",
-    "gulp-install": "^1.1.0",
-    "gulp-sass": "^5.1.0",
-    "gulp-sourcemaps": "^2.6.5",
-    "gulp-open": "^3.0.1",
-    "sass": "^1.49.9"
+    "gulp": "5.0.0",
+    "gulp-open": "3.0.1",
+    "sass": "1.80.2"
   },
-  "homepage": "https://creative-tim.com/product/argon-dashboard"
+  "homepage": "http://creative-tim.com/product/argon-dashboard"
 }
