@@ -1,8 +1,11 @@
 import gulp from 'gulp';
 import open from 'gulp-open';
 
-// Task to open the browser
-gulp.task('open-app', function(){
-  gulp.src('pages/dashboard.html')
-  .pipe(open());
+// Define the `open-app` task
+gulp.task('open-app', function () {
+    return gulp.src('./pages/dashboard.html')
+        .pipe(open({ app: 'chrome' })); // Use 'chrome', 'firefox', or 'msedge' as needed
 });
+
+// Add a default task
+gulp.task('default', gulp.series('open-app'));

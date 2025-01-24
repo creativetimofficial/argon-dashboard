@@ -11,7 +11,8 @@
     "open-app": "gulp open-app",
     "start": "npm run open-app",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "gulp-watch"
+    "watch": "gulp-watch",
+    "build": "gulp"
   },
   "repository": {
     "type": "git",
@@ -38,8 +39,8 @@
     "url": "https://github.com/creativetimofficial/argon-dashboard/issues"
   },
   "devDependencies": {
-    "gulp": "5.0.0",
-    "gulp-open": "3.0.1",
+    "gulp": "^5.0.0",
+    "gulp-open": "^3.0.1",
     "sass": "1.80.2"
   },
   "homepage": "http://creative-tim.com/product/argon-dashboard"
